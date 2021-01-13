@@ -1,0 +1,61 @@
+div {
+    display: flex;
+    justify-content: center;
+}
+
+.picture {
+    padding: 50px;
+    margin: 10px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    border: 5px solid black;
+    width: 100px;
+    height: 200px;
+}
+
+.herb {
+    padding: 50px;
+    margin: 10px;
+    background-color: red;
+    justify-content: center;
+    border: 5px solid black;
+}
+
+img {
+    border-radius: 5px;
+    max-height: 150px;
+    max-width: 220px;
+}
+
+.three {
+    width: 100px;
+    height: 200px;
+}
+
+.qoutes {
+    padding: 50px;
+    margin: 10px;
+    background-color: red;
+    justify-content: center;
+    border: 5px dashed black;
+    width: 1210px;
+    height: 100px;
+}
+
+h2 {
+    text-align: center;
+}
+.albums{
+    background-color:red;
+    padding: 50px;
+    margin:10px;
+    border: 5px dashed black;
+    width:200px;
+    height: 100px;
+    margin: auto;
+}
+
+body{
+    background-color: grey;
+}
